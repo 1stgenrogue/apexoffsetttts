@@ -3,7 +3,6 @@
 [Miscellaneous]
 TimeDateStamp=0x65a0a76b
 CheckSum=0x240194b
-GameVersion=v3.0.54.31
 NUM_ENT_ENTRIES=0x10000
 cl_entitylist=0x1db2ed8
 LocalEntityHandle=0x15ecdbc
